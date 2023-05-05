@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 10 - DevOps\\shoppingAPP\\shoppingAPP\\shoppingAPP.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\shoppingAPP-training\\shoppingAPP\\shoppingAPP\\shoppingAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 10 - DevOps\\shoppingAPP\\shoppingAPP\\shoppingAPP.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\shoppingAPP-training\\shoppingAPP\\shoppingAPP\\shoppingAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 10 - DevOps\\shoppingAPP\\shoppingAPP\\shoppingAPP.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\shoppingAPP-training\\shoppingAPP\\shoppingAPP\\shoppingAPP.csproj",
         "projectName": "shoppingAPP",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 10 - DevOps\\shoppingAPP\\shoppingAPP\\shoppingAPP.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\shoppingAPP-training\\shoppingAPP\\shoppingAPP\\shoppingAPP.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 10 - DevOps\\shoppingAPP\\shoppingAPP\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\shoppingAPP-training\\shoppingAPP\\shoppingAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
